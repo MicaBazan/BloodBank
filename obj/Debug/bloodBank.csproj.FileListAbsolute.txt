@@ -1,0 +1,11 @@
+C:\Users\micab.MICA\source\repos\bloodBank\bin\Debug\bloodBank.exe.config
+C:\Users\micab.MICA\source\repos\bloodBank\bin\Debug\bloodBank.exe
+C:\Users\micab.MICA\source\repos\bloodBank\bin\Debug\bloodBank.pdb
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.csproj.AssemblyReference.cache
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.frmPrincipal.resources
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.Properties.Resources.resources
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.csproj.GenerateResource.cache
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.csproj.CoreCompileInputs.cache
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.exe
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.pdb
+C:\Users\micab.MICA\source\repos\bloodBank\obj\Debug\bloodBank.frmHome.resources
